@@ -10,7 +10,7 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
-////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
 //  ACLLib - Advanced C Lab Library
 //    Ver. 2014-07
 //For Students' Lab at Zhejiang University
@@ -19,7 +19,7 @@
 //    2010 by Lan Huidong
 //Revised2012 by Li Rui
 //  Modified  2014 by Weng Kai for MOOC
-////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
 #define _CRT_SECURE_NO_WARNINGS
 #define _CRT_NON_CONFORMING_SWPRINTFS
 #define CINTERFACE
